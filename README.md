@@ -15,7 +15,7 @@ You can contact me: [Telegram](https://t.me/jgd18)
 
 - karpov.courses
 - Yandex Practicum
-- [stepik](https://stepik.org/users/444753178)
+- [Stepik](https://stepik.org/users/444753178)
 
 <!---
 yanb1831/yanb1831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
