@@ -5,11 +5,11 @@ You can contact me: [Telegram](https://t.me/jgd18)
 
 - Python (pandas, numpy, matplotlib, seaborn)
 - SQL (PostgreSQL, ClickHouse)
+- Airflow
 - GIT
 - Superset
-- Tableau 
 - Power BI
-- Airflow
+- Tableau 
 
 ## Education:
 
