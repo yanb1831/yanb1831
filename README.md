@@ -2,7 +2,7 @@ Hello 👋
   
 You can contact me: 
 - [Telegram](https://t.me/jgd18)
-- <a href="mailto:rusp1831@icloud.com">Написать письмо</a>
+- <a href="mailto:rusp1831@icloud.com">email</a>
 
 ## My technology stack:
 
