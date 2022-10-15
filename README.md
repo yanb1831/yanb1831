@@ -1,5 +1,8 @@
-Hello 👋  
-You can contact me: [Telegram](https://t.me/jgd18)
+Hello 👋    
+  
+You can contact me: 
+- [Telegram](https://t.me/jgd18)
+- <a href="mailto:rusp1831@icloud.com">Написать письмо</a>
 
 ## My technology stack:
 
