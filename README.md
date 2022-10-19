@@ -6,7 +6,7 @@ I am currently looking for a job as a Data Analyst!
 ### 🔎 Connect with me:  
 [![Telegram](https://img.shields.io/badge/-Telegram-606BDB?style=for-the-badge&logo=Telegram)](https://t.me/jgd18)
 [![vk](https://img.shields.io/badge/-vkontakte-606BDB?style=for-the-badge&logo=vk)](https://vk.com/id380540216)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-606BDB?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/yanb1831)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-606BDB?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yanb1831/)
 #
 
 ### 🎩  My technology stack:
