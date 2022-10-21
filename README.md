@@ -27,8 +27,8 @@ I am currently looking for a job as a Data Analyst!
 #
 
 ### 🧥 Education:
-- [karpov.courses (certificate)](https://github.com/yanb1831/karpov.courses)
-- [Yandex Practicum (certificate)](https://github.com/yanb1831/Practicum)
+- [karpov.courses (certificate)](https://disk.yandex.ru/i/syugS_vyZTKsyg)
+- [Yandex Practicum (certificate)](https://disk.yandex.ru/d/JMVLpDClAJhd7g)
 - [Stepik](https://stepik.org/users/444753178)
 
 <!---
