@@ -2,7 +2,6 @@
 
 ## 🕵️‍♂️ Data Detective
 
-My name is Ruslan
 - 🔎 I'm currently looking for a job as a <b>Data Analyst</b>
 - 🌱 I'm currently learning data science
 - 👥 Always looking to collaborate
