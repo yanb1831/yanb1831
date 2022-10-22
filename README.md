@@ -1,5 +1,7 @@
 ## 🕵️‍♂️ Data Detective
 
+[![github-profile.gif](https://s1.gifyu.com/images/github-profile.gif)](https://gifyu.com/image/S9BrQ)
+
 Welcome to my GitHub profile!
 - 🔎 I'm currently looking for a job as a <b>Data Analyst</b>
 - 🌱 I'm currently learning data science
