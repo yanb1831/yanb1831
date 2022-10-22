@@ -1,10 +1,11 @@
-## 🕵️‍♂️ Data Detective
-
 [![github-profile-2.gif](https://s4.gifyu.com/images/github-profile-2.gif)](https://github.com/yanb1831)
 
+## 🕵️‍♂️ Data Detective
+
+My name is Ruslan
 - 🔎 I'm currently looking for a job as a <b>Data Analyst</b>
 - 🌱 I'm currently learning data science
-- 👥 Always looking to collaborate 
+- 👥 Always looking to collaborate
 - ✉️ How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a>
 - ✨ Fun fact i play games and go to the gym very often
 
@@ -36,9 +37,6 @@
 - [karpov.courses (certificate)](https://disk.yandex.ru/i/syugS_vyZTKsyg)
 - [Yandex Practicum (certificate)](https://disk.yandex.ru/d/JMVLpDClAJhd7g)
 - [Stepik](https://stepik.org/users/444753178)
-
-
-
 
 <!---
 yanb1831/yanb1831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
