@@ -1,17 +1,14 @@
 [![github-profile-2.gif](https://s4.gifyu.com/images/github-profile-2.gif)](https://github.com/yanb1831)
 
-## 🕵️‍♂️ Data Detective
-
-- I'm currently looking for a job as a <b>Data Analyst</b>
-- I'm currently learning data science
-- Always looking to collaborate
-- How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a>
-
-### 🔎 Connect with me: 
+### 🕵️‍♂️ Data Detective
 
 [![Telegram](https://img.shields.io/badge/-Telegram-867cea?style=for-the-badge&logo=Telegram)](https://t.me/jgd18)
 [![vk](https://img.shields.io/badge/-vkontakte-867cea?style=for-the-badge&logo=vk)](https://vk.com/id380540216)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-867cea?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yanb1831/)
+
+- I'm currently looking for a job as a <b>Data Analyst</b>
+- I'm currently learning data science
+- Always looking to collaborate
 
 #
 
