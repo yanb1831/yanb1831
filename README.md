@@ -1,13 +1,11 @@
 ## 🕵️‍♂️ Data Detective
 
-<img align="right" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-
 Welcome to my GitHub profile!
-- 🔎 I am currently looking for a job as a <b>Data Analyst
-- 
+- 🔎 I'm currently looking for a job as a <b>Data Analyst</b>
+- 🌱 I'm currently learning data science
 - 👥 Always looking to collaborate 
 - ✉️ How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a>
-- ⚡️ 1
+- ✨ Fun fact i play games and go to the gym very often
 
 ### Connect with me: 
 
