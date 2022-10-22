@@ -1,16 +1,23 @@
 ## 🕵️‍♂️ Data Detective
 
-Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>    
-  
-I am currently looking for a job as a Data Analyst!
+<img align="right" width="450" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 
-### 🔎 Connect with me:  
+<p align="left"><b>Welcome to my GitHub profile!</b></p>
+<p align="left"> 🔎 I am currently looking for a job as a <b>Data Analyst</b> </p>
+<p align="left"> 1</p>
+<p align="left"> 👥 Always looking to collaborate </p>
+<p align="left"> ✉️ How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a></p>
+<p align="left"> ⚡️ 1 </p> 
+
+### Connect with me: 
+
 [![Telegram](https://img.shields.io/badge/-Telegram-606BDB?style=for-the-badge&logo=Telegram)](https://t.me/jgd18)
 [![vk](https://img.shields.io/badge/-vkontakte-606BDB?style=for-the-badge&logo=vk)](https://vk.com/id380540216)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-606BDB?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yanb1831/)
+
 #
 
-### 🎩  My technology stack:
+### My technology stack:
 ![Python](https://img.shields.io/badge/-Python-606BDB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/-Pandas-606BDB?style=for-the-badge&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-606BDB?style=for-the-badge&logo=Numpy)
@@ -26,7 +33,7 @@ I am currently looking for a job as a Data Analyst!
 
 #
 
-### 🧥 Education:
+### Education:
 - [karpov.courses (certificate)](https://disk.yandex.ru/i/syugS_vyZTKsyg)
 - [Yandex Practicum (certificate)](https://disk.yandex.ru/d/JMVLpDClAJhd7g)
 - [Stepik](https://stepik.org/users/444753178)
