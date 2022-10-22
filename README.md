@@ -1,4 +1,5 @@
 ## 🕵️‍♂️ Data Detective
+<img align="right" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 
 Welcome to my GitHub profile!
 - 🔎 I'm currently looking for a job as a <b>Data Analyst</b>
