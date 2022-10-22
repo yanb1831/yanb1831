@@ -1,5 +1,4 @@
 ## 🕵️‍♂️ Data Detective
-<img align="right" width="350" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 
 Welcome to my GitHub profile!
 - 🔎 I'm currently looking for a job as a <b>Data Analyst</b>
@@ -17,18 +16,18 @@ Welcome to my GitHub profile!
 #
 
 ### My technology stack:
-![Python](https://img.shields.io/badge/-Python-606BDB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
-![Pandas](https://img.shields.io/badge/-Pandas-606BDB?style=for-the-badge&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-606BDB?style=for-the-badge&logo=Numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-606BDB?style=for-the-badge&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-606BDB?style=for-the-badge&logo=Seaborn)
-![SciPy](https://img.shields.io/badge/-SciPy-606BDB?style=for-the-badge&logo=SciPy)
-![Tableau](https://img.shields.io/badge/-Tableau-606BDB?style=for-the-badge&logo=Tableau)
-![Superset](https://img.shields.io/badge/-Superset-606BDB?style=for-the-badge&logo=ApacheSuperset)
-![Airflow](https://img.shields.io/badge/-Airflow-606BDB?style=for-the-badge&logo=ApacheAirflow)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-606BDB?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-606BDB?style=for-the-badge&logo=ClickHouse)
-![Git](https://img.shields.io/badge/-Git-606BDB?style=for-the-badge&logo=Github)
+[![Python](https://img.shields.io/badge/-Python-606BDB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org)
+[![Pandas](https://img.shields.io/badge/-Pandas-606BDB?style=for-the-badge&logo=Pandas)](https://pandas.pydata.org)
+[![Numpy](https://img.shields.io/badge/-Numpy-606BDB?style=for-the-badge&logo=Numpy)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-606BDB?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-606BDB?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org)
+[![SciPy](https://img.shields.io/badge/-SciPy-606BDB?style=for-the-badge&logo=SciPy)](https://scipy.org)
+[![Tableau](https://img.shields.io/badge/-Tableau-606BDB?style=for-the-badge&logo=Tableau)](https://mkt.tableau.com/no_service.html)
+[![Superset](https://img.shields.io/badge/-Superset-606BDB?style=for-the-badge&logo=ApacheSuperset)](https://superset.apache.org)
+[![Airflow](https://img.shields.io/badge/-Airflow-606BDB?style=for-the-badge&logo=ApacheAirflow)](https://airflow.apache.org)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-606BDB?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-606BDB?style=for-the-badge&logo=ClickHouse)](https://clickhouse.com)
+[![Git](https://img.shields.io/badge/-Git-606BDB?style=for-the-badge&logo=Github)](https://github.com)
 
 #
 
@@ -36,6 +35,9 @@ Welcome to my GitHub profile!
 - [karpov.courses (certificate)](https://disk.yandex.ru/i/syugS_vyZTKsyg)
 - [Yandex Practicum (certificate)](https://disk.yandex.ru/d/JMVLpDClAJhd7g)
 - [Stepik](https://stepik.org/users/444753178)
+
+
+
 
 <!---
 yanb1831/yanb1831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
