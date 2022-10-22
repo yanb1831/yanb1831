@@ -1,13 +1,13 @@
 ## 🕵️‍♂️ Data Detective
 
-<img align="right" width="450" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
 
-<p align="left"><b>Welcome to my GitHub profile!</b></p>
-<p align="left"> 🔎 I am currently looking for a job as a <b>Data Analyst</b> </p>
-<p align="left"> 1</p>
-<p align="left"> 👥 Always looking to collaborate </p>
-<p align="left"> ✉️ How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a></p>
-<p align="left"> ⚡️ 1 </p> 
+Welcome to my GitHub profile!
+- 🔎 I am currently looking for a job as a <b>Data Analyst
+- 
+- 👥 Always looking to collaborate 
+- ✉️ How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a>
+- ⚡️ 1
 
 ### Connect with me: 
 
