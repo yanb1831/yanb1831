@@ -2,13 +2,12 @@
 
 ## 🕵️‍♂️ Data Detective
 
-- 🔎 I'm currently looking for a job as a <b>Data Analyst</b>
-- 🌱 I'm currently learning data science
-- 👥 Always looking to collaborate
-- ✉️ How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a>
-- ✨ Fun fact i play games and go to the gym very often
+- I'm currently looking for a job as a <b>Data Analyst</b>
+- I'm currently learning data science
+- Always looking to collaborate
+- How to reach me <a href="mailto:yanb1831@yandex.ru">yanb1831@yandex.ru</a>
 
-### Connect with me: 
+### 🔎 Connect with me: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-867cea?style=for-the-badge&logo=Telegram)](https://t.me/jgd18)
 [![vk](https://img.shields.io/badge/-vkontakte-867cea?style=for-the-badge&logo=vk)](https://vk.com/id380540216)
@@ -16,7 +15,7 @@
 
 #
 
-### My technology stack:
+### ✨ My technology stack:
 [![Python](https://img.shields.io/badge/-Python-867cea?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org)
 [![Pandas](https://img.shields.io/badge/-Pandas-867cea?style=for-the-badge&logo=Pandas)](https://pandas.pydata.org)
 [![Numpy](https://img.shields.io/badge/-Numpy-867cea?style=for-the-badge&logo=Numpy)](https://numpy.org)
@@ -32,7 +31,7 @@
 
 #
 
-### Education:
+### 🌊 Education:
 - [karpov.courses (certificate)](https://disk.yandex.ru/i/syugS_vyZTKsyg)
 - [Yandex Practicum (certificate)](https://disk.yandex.ru/d/JMVLpDClAJhd7g)
 - [Stepik](https://stepik.org/users/444753178)
