@@ -1,4 +1,5 @@
-[![github-profile-2.gif](https://s4.gifyu.com/images/github-profile-2.gif)](https://github.com/yanb1831)
+[![head-github](https://s1.gifyu.com/images/github-profile-8.gif)](https://github.com/yanb1831)
+
 
 ### 🕵️‍♂️ Data Detective
 
