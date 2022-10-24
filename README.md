@@ -29,7 +29,7 @@
 #
 
 ### 🌊 Education:
-[![Certificates](https://img.shields.io/badge/-Certificates-ff9966?style=for-the-badge)](https://drive.google.com/drive/folders/1lw6m2DAaELX4v7XOJ7aXb_UVIaGlqtrL?usp=sharing)
+[![Certificates](https://img.shields.io/badge/-Certificates-867cea?style=for-the-badge)](https://drive.google.com/drive/folders/1lw6m2DAaELX4v7XOJ7aXb_UVIaGlqtrL?usp=sharing)
 
 #
 
