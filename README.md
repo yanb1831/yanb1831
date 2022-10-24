@@ -29,9 +29,9 @@
 #
 
 ### 🌊 Education:
-- [karpov.courses (certificate)](https://disk.yandex.ru/i/syugS_vyZTKsyg)
-- [Yandex Practicum (certificate)](https://disk.yandex.ru/d/JMVLpDClAJhd7g)
-- [Stepik](https://stepik.org/users/444753178)
+[![Certificates](https://img.shields.io/badge/-Certificates-ff9966?style=for-the-badge)](https://drive.google.com/drive/folders/1lw6m2DAaELX4v7XOJ7aXb_UVIaGlqtrL?usp=sharing)
+
+#
 
 <!---
 yanb1831/yanb1831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
