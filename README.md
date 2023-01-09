@@ -30,8 +30,12 @@
 #
 
 ### 👨‍🎓 Education:
+# data analyst
 - [karpov-courses](https://github.com/yanb1831/karpov-courses)
-- [yandex-practicum](https://github.com/yanb1831/Yandex-Practicum)
+- [yandex-practicum](https://github.com/yanb1831/data-analyst-practicum)
+# data engineer
+- [yandex-practicum](https://github.com/yanb1831?tab=repositories)
+
 - sql-ex
 
 #
