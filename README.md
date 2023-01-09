@@ -32,7 +32,6 @@
 ### 👨‍🎓 Education:
 - [karpov-courses](https://github.com/yanb1831/karpov-courses)
 - [yandex-practicum](https://github.com/yanb1831/Yandex-Practicum)
-- kaggle
 - sql-ex
 
 #
