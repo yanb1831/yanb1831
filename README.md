@@ -15,6 +15,7 @@
 
 ### ✨ My technology stack:
 [![Python](https://img.shields.io/badge/-Python-867cea?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org)
+[![Airflow](https://img.shields.io/badge/-Airflow-867cea?style=for-the-badge&logo=ApacheAirflow)](https://airflow.apache.org)
 [![Pandas](https://img.shields.io/badge/-Pandas-867cea?style=for-the-badge&logo=Pandas)](https://pandas.pydata.org)
 [![Numpy](https://img.shields.io/badge/-Numpy-867cea?style=for-the-badge&logo=Numpy)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-867cea?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org)
@@ -22,21 +23,9 @@
 [![SciPy](https://img.shields.io/badge/-SciPy-867cea?style=for-the-badge&logo=SciPy)](https://scipy.org)
 [![Tableau](https://img.shields.io/badge/-Tableau-867cea?style=for-the-badge&logo=Tableau)](https://mkt.tableau.com/no_service.html)
 [![Superset](https://img.shields.io/badge/-Superset-867cea?style=for-the-badge&logo=ApacheSuperset)](https://superset.apache.org)
-[![Airflow](https://img.shields.io/badge/-Airflow-867cea?style=for-the-badge&logo=ApacheAirflow)](https://airflow.apache.org)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-867cea?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org)
 [![ClickHouse](https://img.shields.io/badge/-ClickHouse-867cea?style=for-the-badge&logo=ClickHouse)](https://clickhouse.com)
 [![Git](https://img.shields.io/badge/-Git-867cea?style=for-the-badge&logo=Github)](https://github.com)
-
-#
-
-### 👨‍🎓 Education:
-**data analyst**
-- [karpov-courses](https://github.com/yanb1831/karpov-courses)
-- [yandex-practicum](https://github.com/yanb1831/data-analyst-practicum)
-
-**data engineer**
-- [yandex-practicum](https://github.com/yanb1831?tab=repositories)
-
 
 #
 
