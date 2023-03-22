@@ -27,6 +27,7 @@
 [![Seaborn](https://img.shields.io/badge/-Seaborn-867cea?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org)
 [![SciPy](https://img.shields.io/badge/-SciPy-867cea?style=for-the-badge&logo=SciPy)](https://scipy.org)
 [![Docker](https://img.shields.io/badge/-Docker-867cea?style=for-the-badge&logo=Docker)](https://www.docker.com)
+[![Linux](https://img.shields.io/badge/-Linux-867cea?style=for-the-badge&logo=Linux)](https://www.linux.org)
 [![Git](https://img.shields.io/badge/-Git-867cea?style=for-the-badge&logo=Github)](https://github.com)
 
 #
