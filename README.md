@@ -15,6 +15,7 @@
 ### ✨ My technology stack:
 [![Python](https://img.shields.io/badge/-Python-867cea?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org)
 [![Airflow](https://img.shields.io/badge/-Airflow-867cea?style=for-the-badge&logo=ApacheAirflow)](https://airflow.apache.org)
+[![Spark](https://img.shields.io/badge/-Spark-867cea?style=for-the-badge&logo=ApacheSpark)](https://spark.apache.org)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-867cea?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org)
 [![Vertica](https://img.shields.io/badge/-Vertica-867cea?style=for-the-badge&logo=Vertica&logoColor=FFFFFF)](https://www.vertica.com)
 [![Mongodb](https://img.shields.io/badge/-Mongodb-867cea?style=for-the-badge&logo=Mongodb)](https://www.mongodb.com)
