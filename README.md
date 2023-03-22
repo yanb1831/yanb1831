@@ -15,15 +15,18 @@
 ### ✨ My technology stack:
 [![Python](https://img.shields.io/badge/-Python-867cea?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org)
 [![Airflow](https://img.shields.io/badge/-Airflow-867cea?style=for-the-badge&logo=ApacheAirflow)](https://airflow.apache.org)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-867cea?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org)
+[![Vertica](https://img.shields.io/badge/-Vertica-867cea?style=for-the-badge&logo=Vertica&logoColor=FFFFFF)](https://www.vertica.com)
+[![Mongodb](https://img.shields.io/badge/-Mongodb-867cea?style=for-the-badge&logo=Mongodb)](https://www.mongodb.com)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-867cea?style=for-the-badge&logo=ClickHouse)](https://clickhouse.com)
+[![Superset](https://img.shields.io/badge/-Superset-867cea?style=for-the-badge&logo=ApacheSuperset)](https://superset.apache.org)
+[![Tableau](https://img.shields.io/badge/-Tableau-867cea?style=for-the-badge&logo=Tableau)](https://mkt.tableau.com/no_service.html)
 [![Pandas](https://img.shields.io/badge/-Pandas-867cea?style=for-the-badge&logo=Pandas)](https://pandas.pydata.org)
 [![Numpy](https://img.shields.io/badge/-Numpy-867cea?style=for-the-badge&logo=Numpy)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-867cea?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-867cea?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org)
 [![SciPy](https://img.shields.io/badge/-SciPy-867cea?style=for-the-badge&logo=SciPy)](https://scipy.org)
-[![Tableau](https://img.shields.io/badge/-Tableau-867cea?style=for-the-badge&logo=Tableau)](https://mkt.tableau.com/no_service.html)
-[![Superset](https://img.shields.io/badge/-Superset-867cea?style=for-the-badge&logo=ApacheSuperset)](https://superset.apache.org)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-867cea?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org)
-[![ClickHouse](https://img.shields.io/badge/-ClickHouse-867cea?style=for-the-badge&logo=ClickHouse)](https://clickhouse.com)
+[![Docker](https://img.shields.io/badge/-Docker-867cea?style=for-the-badge&logo=Docker)](https://www.docker.com)
 [![Git](https://img.shields.io/badge/-Git-867cea?style=for-the-badge&logo=Github)](https://github.com)
 
 #
