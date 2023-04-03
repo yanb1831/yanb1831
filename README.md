@@ -26,6 +26,7 @@
 [![Numpy](https://img.shields.io/badge/-Numpy-867cea?style=for-the-badge&logo=Numpy)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-867cea?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-867cea?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org)
+[![Plotly](https://img.shields.io/badge/-Plotly-867cea?style=for-the-badge&logo=Plotly)](https://plotly.com)
 [![SciPy](https://img.shields.io/badge/-SciPy-867cea?style=for-the-badge&logo=SciPy)](https://scipy.org)
 [![Docker](https://img.shields.io/badge/-Docker-867cea?style=for-the-badge&logo=Docker)](https://www.docker.com)
 [![Linux](https://img.shields.io/badge/-Linux-867cea?style=for-the-badge&logo=Linux)](https://www.linux.org)
