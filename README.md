@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-867cea?style=for-the-badge&logo=Telegram)](https://t.me/jgd18)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-867cea?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yanb1831/)
 
-- I'm currently looking for a job as a <b>Data Analyst</b>
+- I'm currently looking for a job as a <b>Data Analyst/Data Engineer</b>
 - I'm currently learning data science
 - Always looking to collaborate
 
